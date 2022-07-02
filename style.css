@@ -67,3 +67,18 @@ h1 {
 .hole.up .mole {
   top: 0;
 }
+
+.btnCenter {
+  text-align: center;
+}
+
+.btn {
+
+  margin-top: 3rem;
+  padding: 2rem 2rem;
+  background-color: rgba(255,255,255,0.2);
+  border: none;
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Amatic SC', cursive;
+}
